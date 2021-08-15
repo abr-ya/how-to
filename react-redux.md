@@ -44,3 +44,12 @@ ReactDOM.render(
 
 А вот тут на скриншоте видно, в каких строках изменения:
 ![](./img/redux/2021-08-15_110306_add_redux.png)
+
+## 4 (если до этого ни разу) Устанавливаем расширение Chrome
+[отсюда](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
+Уже после этого мы после старта видим, что redux в проекте работает - initialState, который мы прописали, можно увидеть в DevTools (для просмотра всего стейта не забываем переключиться на вкладку State):
+![](./img/redux/2021-08-15_112105_state.png)
+
+## 5 (быстрый тест)
+(в разработке)
