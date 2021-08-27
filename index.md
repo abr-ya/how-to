@@ -5,6 +5,7 @@
 
 ## Инструкции
 - [React + Vite + ESLint + Prettier (жж)](https://gamer005.livejournal.com/55587.html)
+- [React: добавляем Router](./react-router)
 - [React: добавляем Redux (+ DevTools)](./react-redux)
 - [React + Redux - создаём экшены, редюсер, контейнер](./react-redux-about)
 
