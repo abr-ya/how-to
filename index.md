@@ -3,7 +3,9 @@
 
 Видимо, всё будет в виде файлов md и сразу в ветке gh-pages.
 
-## Инструкции
+## Инструкции и описания
+- [React - базовые понятия: Компонент, Свойства](./react-1)
+- [React - базовые понятия: Стейт компонента](./react-2)
 - [React + Vite + ESLint + Prettier (жж)](https://gamer005.livejournal.com/55587.html)
 - [React: добавляем Router](./react-router)
 - [React: добавляем Redux (+ DevTools)](./react-redux)
